@@ -350,6 +350,6 @@ Experiência fluida e sem necessidade de termos técnicos.
 ## O que funcionou bem?  
   Graças ao refinamento do Copilot Web, o resultado da interface e da IA do app alcançaram o resultado desejado, auxiliando também na economia dos crétidos gratuitos do Lovable.
 ## O que não funcionou como o esperado?  
-  A interação entre a aba de chat do bot financeiro e as outras sessões do app não se manteram interligadas. Sendo assim, a criação de metas, por exemplo, é um processo que necessita ser realizado manualmente na aba "metas".
+  A interação entre a aba de chat do bot financeiro e as outras sessões do app não se mantiveram interligadas. Sendo assim, a criação de metas, por exemplo, é um processo que necessita ser realizado manualmente na aba "metas".
 ## O que aprendeu sobre conversar com IAs?
   É necessário clareza e refinamento nos *prompts*, para que assim a IA alcance o resultado desejado ou similar. Além disso, mesmo com o refinamento, erros ainda acontecem, desmonstrando que a intervenção humana é necessária em certos momentos, para que um resultado "perfeito" seja alcançado. 
